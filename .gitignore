@@ -21,3 +21,9 @@ Homestead.yaml
 Homestead.json
 /.vagrant
 .phpunit.result.cache
+/public/css/
+/public/assets/
+/public/fonts/
+/public/images/
+/public/js/
+/public/images/vendor/flag-icon-css/
